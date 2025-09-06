@@ -1,0 +1,3 @@
+[submodule "sofa-jraft"]
+	path = sofa-jraft
+	url = https://github.com/sofastack/sofa-jraft.git
